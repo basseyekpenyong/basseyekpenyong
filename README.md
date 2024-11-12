@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **I am a seasoned Database Administrator, Programmer, and Data Analyst passionate about transforming data into actionable insights and ensuring robust, efficient, and secure database environments. With a comprehensive background in managing complex databases, developing optimized data structures, and extracting meaningful analytics, I bring a well-rounded skill set that spans technical expertise, programming, and strategic data analysis.
+**I am a seasoned Database Administrator, Programmer, and Data Analyst passionate about transforming data into actionable insights and ensuring robust, efficient, and secure database environments. With a comprehensive background in managing complex databases, developing optimized data structures, and extracting meaningful analytics, I bring a well-rounded skill set that spans technical expertise, programming, and strategic data analysis.
 
 As a Database Administrator, I specialize in administering and optimizing Oracle, SQL Server, MySQL, and PostgreSQL, focusing on performance tuning, backup and recovery strategies, and ensuring data integrity and security. My experience in database programming allows me to create efficient stored procedures, scripts, and automation solutions, enhancing operational efficiency and reducing manual tasks.
 
